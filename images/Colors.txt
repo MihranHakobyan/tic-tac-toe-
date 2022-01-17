@@ -1,0 +1,8 @@
+light mode bg_____   #28B6F3 --->   #77C4F5
+Gark mode  bg_____   #084B89 --->   #083466
+
+Sun --> #FFC720
+
+
+colors:
+http://paletton.com/#uid=73r0A0krYX0gfY1mnX-BKVmRBHd
